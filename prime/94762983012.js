@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94762983012",
+  "ownerName": "VIMAMODS",
+  "ownerFrom": "Galle",
+  "ownerAge": "31",
+  "menuLogo": "https://i.ibb.co/JFnJcp9S/1759421420595.jpg",
+  "aliveLogo": "https://i.ibb.co/rG2bjT18/Screenshot-20250928-125236-Clash-of-Clans.jpg",
+  "ownerLogo": "https://i.ibb.co/DHjfNRSN/IMG-20250925-WA0035.jpg",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
