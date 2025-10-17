@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94758315442",
+  "ownerName": "locha",
+  "ownerFrom": "lochana",
+  "ownerAge": "18",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
