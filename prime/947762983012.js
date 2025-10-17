@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "947762983012",
+  "ownerName": "",
+  "ownerFrom": "",
+  "ownerAge": "",
+  "menuLogo": "https://i.ibb.co/1gXyrsS/26650.jpg",
+  "aliveLogo": "https://i.ibb.co/DPrznbwf/27267.jpg",
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": false,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
