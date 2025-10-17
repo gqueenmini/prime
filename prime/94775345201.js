@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94775345201",
+  "ownerName": "• Mr.ජනියා •",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "+16",
+  "menuLogo": "https://i.ibb.co/nNBFyBXY/1000064797.jpg",
+  "aliveLogo": "https://i.ibb.co/nNBFyBXY/1000064797.jpg",
+  "ownerLogo": "https://i.ibb.co/fzDRFmCQ/1000064528.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": true
+}
