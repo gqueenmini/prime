@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94771469603",
+  "ownerName": "RAVIYA MD",
+  "ownerFrom": "Kegalle",
+  "ownerAge": "16+",
+  "menuLogo": "https://i.ibb.co/WvbDywCr/IMG-20250918-201459-028.jpg",
+  "aliveLogo": "https://i.ibb.co/vxYfMJ7X/9a1f24692c5a483c30c75553f2c3b8a3.jpg",
+  "ownerLogo": "https://i.ibb.co/vCFBNmBN/b3b898aa54d7a3854e4f32185a3ae979.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": true
+}
