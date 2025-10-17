@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94776734030",
+  "ownerName": "VIMAMODS",
+  "ownerFrom": "Galle",
+  "ownerAge": "31",
+  "menuLogo": "https://i.ibb.co/XPmwYQF/159.jpg",
+  "aliveLogo": "https://i.ibb.co/Gvxt6VLW/24248.jpg",
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": false
+}
