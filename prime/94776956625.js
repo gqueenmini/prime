@@ -1,7 +1,7 @@
 {
   "mode": "public",
   "changeLang": "en",
-  "antiCall": "all",
+  "antiCall": "off",
   "ownerNumber": "94776956625",
   "ownerName": "ᴋᴀᴠᴇᴇ ʙᴏʏ ༊",
   "ownerFrom": "Bibile",
@@ -11,7 +11,7 @@
   "ownerLogo": null,
   "autoTyping": true,
   "autoRecording": false,
-  "antiDelete": false,
+  "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
   "autoRead": true,
