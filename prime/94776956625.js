@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "all",
+  "ownerNumber": "94776956625",
+  "ownerName": "ᴋᴀᴠᴇᴇ ʙᴏʏ ༊",
+  "ownerFrom": "Bibile",
+  "ownerAge": "17+",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": true
+}
