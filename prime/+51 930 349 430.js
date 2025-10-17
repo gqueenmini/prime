@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "+51 930 349 430",
+  "ownerName": "Antony",
+  "ownerFrom": "SNR",
+  "ownerAge": "+19",
+  "menuLogo": "https://i.ibb.co/1GDjwZm3/1001256693.jpg",
+  "aliveLogo": "https://i.ibb.co/1GDjwZm3/1001256693.jpg",
+  "ownerLogo": "https://i.ibb.co/1GDjwZm3/1001256693.jpg",
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": true
+}
