@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94757742679",
+  "ownerName": "νєηυ",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "18",
+  "menuLogo": "https://i.ibb.co/NnZ84MY2/20251017-201737.png",
+  "aliveLogo": "https://i.ibb.co/tpC7Lv8K/20251017-201737.png",
+  "ownerLogo": "https://i.ibb.co/NnZ84MY2/20251017-201737.png",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
