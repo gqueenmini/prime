@@ -5,7 +5,7 @@
   "ownerNumber": "94776956625",
   "ownerName": "ᴋᴀᴠᴇᴇ ʙᴏʏ ༊",
   "ownerFrom": "Bibile",
-  "ownerAge": "17+",
+  "ownerAge": "17",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": null,
