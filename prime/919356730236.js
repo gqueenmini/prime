@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "919356730236",
+  "ownerName": "rahul",
+  "ownerFrom": "india",
+  "ownerAge": "19",
+  "menuLogo": "https://i.ibb.co/KcfB1x55/IMG-20251007-WA0050-1-01.jpg",
+  "aliveLogo": "https://i.ibb.co/KcfB1x55/IMG-20251007-WA0050-1-01.jpg",
+  "ownerLogo": "https://i.ibb.co/KcfB1x55/IMG-20251007-WA0050-1-01.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": false
+}
