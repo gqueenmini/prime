@@ -1,7 +1,7 @@
 {
   "mode": "public",
   "changeLang": "en",
-  "antiCall": "off",
+  "antiCall": "all",
   "ownerNumber": "+918209397203",
   "ownerName": "Ravan",
   "ownerFrom": "India",
