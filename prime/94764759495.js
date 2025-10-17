@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94764759495",
+  "ownerName": "Zeus",
+  "ownerFrom": "Sri Lanka",
+  "ownerAge": "19",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": false
+}
