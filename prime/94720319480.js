@@ -3,9 +3,9 @@
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "94720319480",
-  "ownerName": "sura official",
+  "ownerName": "Sura",
   "ownerFrom": "Galle",
-  "ownerAge": "27",
+  "ownerAge": "26",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": null,
@@ -14,10 +14,10 @@
   "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
-  "autoRead": true,
-  "cmdRead": true,
+  "autoRead": false,
+  "cmdRead": false,
   "autoBlock": false,
   "autoVoice": false,
-  "autoContact": true,
-  "alwaysOnline": true
+  "autoContact": false,
+  "alwaysOnline": false
 }
