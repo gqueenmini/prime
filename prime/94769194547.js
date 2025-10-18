@@ -1,5 +1,5 @@
 {
-  "mode": "private",
+  "mode": "public",
   "changeLang": "en",
   "antiCall": "group",
   "ownerNumber": "94769194547",
@@ -18,6 +18,6 @@
   "cmdRead": false,
   "autoBlock": false,
   "autoVoice": true,
-  "autoContact": true,
+  "autoContact": false,
   "alwaysOnline": true
 }
