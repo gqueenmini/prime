@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94704656579",
+  "ownerName": "Maliya",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": false,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
