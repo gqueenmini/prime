@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "group",
+  "ownerNumber": "94769194547",
+  "ownerName": "𝐑ᴇᴀʟ 𝐂ʏʙᴇʀ 𝐃ᴜᴍɪʏʜ 𝐎ꜰᴄ",
+  "ownerFrom": "𝐊ᴜʀᴜɴᴇɢᴀʟᴀ",
+  "ownerAge": "16",
+  "menuLogo": "https://i.ibb.co/p6LRxGTK/Screenshot-20251018-202639-1.jpg",
+  "aliveLogo": "https://i.ibb.co/p6LRxGTK/Screenshot-20251018-202639-1.jpg",
+  "ownerLogo": "https://i.ibb.co/p6LRxGTK/Screenshot-20251018-202639-1.jpg",
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
