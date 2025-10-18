@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "923189063603",
+  "ownerName": "IKRAM-KHAN",
+  "ownerFrom": "Pakistan",
+  "ownerAge": "24",
+  "menuLogo": "https://i.ibb.co/Sw9SP3b4/1000011105.png",
+  "aliveLogo": "https://i.ibb.co/Sw9SP3b4/1000011105.png",
+  "ownerLogo": "https://i.ibb.co/ZzhShLkd/1000003670.jpg",
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": true
+}
