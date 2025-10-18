@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "si",
+  "antiCall": "group",
+  "ownerNumber": "94740144642",
+  "ownerName": "Tharusha",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "19",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": true
+}
