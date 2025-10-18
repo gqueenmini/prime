@@ -4,11 +4,11 @@
   "antiCall": "off",
   "ownerNumber": "94703438573",
   "ownerName": "Programer",
-  "ownerFrom": "Sri lanka",
-  "ownerAge": "17",
+  "ownerFrom": "Hambanthota",
+  "ownerAge": "18",
   "menuLogo": null,
   "aliveLogo": null,
-  "ownerLogo": null,
+  "ownerLogo": "https://i.ibb.co/fYd5vKnf/IMG-20250913-WA0014.jpg",
   "autoTyping": true,
   "autoRecording": false,
   "antiDelete": true,
@@ -17,7 +17,7 @@
   "autoRead": false,
   "cmdRead": true,
   "autoBlock": false,
-  "autoVoice": false,
+  "autoVoice": true,
   "autoContact": true,
   "alwaysOnline": true
 }
