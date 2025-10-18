@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "+919356730236",
+  "ownerName": "RAHUL-AI",
+  "ownerFrom": "India",
+  "ownerAge": "19",
+  "menuLogo": "https://i.ibb.co/5hZFPJnq/IMG-20251007-WA0050-1-01.jpg",
+  "aliveLogo": "https://i.ibb.co/WvnMNfPk/IMG-20251007-WA0050.jpg",
+  "ownerLogo": "https://i.ibb.co/t5SBPSn/IMG-20250929-173742-487.webp",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": false
+}
