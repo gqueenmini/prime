@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "+94783597939",
+  "ownerName": "Kavidu mihiranga",
+  "ownerFrom": "Kandy",
+  "ownerAge": "18",
+  "menuLogo": "https://i.ibb.co/SXmty9KT/IMG-20251006-WA0124.jpg",
+  "aliveLogo": "https://i.ibb.co/fzgVHz1K/Picsart-25-10-05-17-44-32-571.jpg",
+  "ownerLogo": "https://i.ibb.co/0jKx2VzH/IMG-20251005-WA0136.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
