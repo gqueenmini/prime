@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94762472726",
+  "ownerName": "𝙰𝙺𝙰𝚂𝙷",
+  "ownerFrom": "𝙰𝙺𝙰𝚂𝙷",
+  "ownerAge": "17",
+  "menuLogo": "https://i.ibb.co/pBftLjH8/IMG-20250930-WA0002.jpg",
+  "aliveLogo": "https://i.ibb.co/0R5XtC0C/IMG-20251002-WA0000.jpg",
+  "ownerLogo": "https://i.ibb.co/8DhgmPRF/IMG-20250930-WA0001.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
