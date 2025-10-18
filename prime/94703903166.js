@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94703903166",
+  "ownerName": "...........",
+  "ownerFrom": "Trinco",
+  "ownerAge": "20",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
