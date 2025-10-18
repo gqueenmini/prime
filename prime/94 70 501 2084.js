@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94 70 501 2084",
+  "ownerName": "Kasun",
+  "ownerFrom": "Sri Lanka",
+  "ownerAge": "9999",
+  "menuLogo": "https://i.ibb.co/dstHJ0yp/black-wallpapers-for-smartphone-84-700x1244.jpg",
+  "aliveLogo": "https://i.ibb.co/dstHJ0yp/black-wallpapers-for-smartphone-84-700x1244.jpg",
+  "ownerLogo": "https://i.ibb.co/dstHJ0yp/black-wallpapers-for-smartphone-84-700x1244.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": false,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
