@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94768579834",
+  "ownerName": "Nithum",
+  "ownerFrom": "Kurunagala",
+  "ownerAge": "45",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
