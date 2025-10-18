@@ -5,7 +5,7 @@
   "ownerNumber": "94768579834",
   "ownerName": "Nithum",
   "ownerFrom": "Kurunagala",
-  "ownerAge": "45",
+  "ownerAge": "34",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": null,
