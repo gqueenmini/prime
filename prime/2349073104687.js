@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "2349073104687",
+  "ownerName": "Pop Dior",
+  "ownerFrom": "Nigeria",
+  "ownerAge": "19",
+  "menuLogo": "https://i.ibb.co/zHJzV0k5/1000621096.jpg",
+  "aliveLogo": "https://i.ibb.co/zHJzV0k5/1000621096.jpg",
+  "ownerLogo": "https://i.ibb.co/zHJzV0k5/1000621096.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
