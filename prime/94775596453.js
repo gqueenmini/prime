@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94775596453",
+  "ownerName": "Naduwa",
+  "ownerFrom": "Kelaniya",
+  "ownerAge": "23",
+  "menuLogo": "https://i.ibb.co/ks2M3TQj/aaaa.webp",
+  "aliveLogo": "https://i.ibb.co/ks2M3TQj/aaaa.webp",
+  "ownerLogo": "https://i.ibb.co/ks2M3TQj/aaaa.webp",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
