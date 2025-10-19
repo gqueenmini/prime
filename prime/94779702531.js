@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "all",
+  "ownerNumber": "94779702531",
+  "ownerName": "Liyo",
+  "ownerFrom": "Sri Lanka",
+  "ownerAge": "+17",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": "https://i.ibb.co/J9QRT4n/G0-yv-Ccqye-Yyo-Ew-ZYGOGo-Hvlu0-P.jpg",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
