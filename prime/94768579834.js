@@ -1,11 +1,11 @@
 {
   "mode": "public",
   "changeLang": "en",
-  "antiCall": "off",
+  "antiCall": "all",
   "ownerNumber": "94768579834",
   "ownerName": "Nithum",
-  "ownerFrom": "Kurunagala",
-  "ownerAge": "25",
+  "ownerFrom": "Kandy",
+  "ownerAge": "20",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": null,
@@ -16,7 +16,7 @@
   "statusReact": true,
   "autoRead": true,
   "cmdRead": true,
-  "autoBlock": true,
+  "autoBlock": false,
   "autoVoice": true,
   "autoContact": true,
   "alwaysOnline": true
