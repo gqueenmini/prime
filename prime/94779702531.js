@@ -3,7 +3,7 @@
   "changeLang": "en",
   "antiCall": "all",
   "ownerNumber": "94779702531",
-  "ownerName": "Liyo",
+  "ownerName": "MR.LIYO",
   "ownerFrom": "Sri Lanka",
   "ownerAge": "+18",
   "menuLogo": null,
