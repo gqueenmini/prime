@@ -5,7 +5,7 @@
   "ownerNumber": "94779702531",
   "ownerName": "Liyo",
   "ownerFrom": "Sri Lanka",
-  "ownerAge": "+17",
+  "ownerAge": "+18",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": "https://i.ibb.co/J9QRT4n/G0-yv-Ccqye-Yyo-Ew-ZYGOGo-Hvlu0-P.jpg",
