@@ -17,7 +17,7 @@
   "autoRead": true,
   "cmdRead": true,
   "autoBlock": false,
-  "autoVoice": true,
-  "autoContact": true,
+  "autoVoice": false,
+  "autoContact": false,
   "alwaysOnline": true
 }
