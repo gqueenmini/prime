@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "923146856009",
+  "ownerName": "Mr Zain",
+  "ownerFrom": "Pakistan",
+  "ownerAge": "999999",
+  "menuLogo": "https://i.ibb.co/Y77fhC68/IMG-20250807-125918-445.jpg",
+  "aliveLogo": "https://i.ibb.co/Y77fhC68/IMG-20250807-125918-445.jpg",
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
