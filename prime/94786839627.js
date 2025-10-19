@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94786839627",
+  "ownerName": "Akash",
+  "ownerFrom": "කලුතර",
+  "ownerAge": "20",
+  "menuLogo": "https://i.ibb.co/n8zmRsJj/1000032321.jpg",
+  "aliveLogo": "https://i.ibb.co/n8zmRsJj/1000032321.jpg",
+  "ownerLogo": "https://i.ibb.co/d1jgY53/1000029928.jpg",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
