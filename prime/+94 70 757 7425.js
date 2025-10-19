@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "+94 70 757 7425",
+  "ownerName": "νєηυ",
+  "ownerFrom": "Srilanka",
+  "ownerAge": "18+",
+  "menuLogo": "https://i.ibb.co/BVkHKRHz/20251019-131337.png",
+  "aliveLogo": "https://i.ibb.co/mrcgVddW/20251019-131337.png",
+  "ownerLogo": "https://i.ibb.co/BVkHKRHz/20251019-131337.png",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
