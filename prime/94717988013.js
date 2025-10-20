@@ -3,7 +3,7 @@
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "94717988013",
-  "ownerName": "Nethmi pramodya",
+  "ownerName": "Nethmi",
   "ownerFrom": "Trinco",
   "ownerAge": "18",
   "menuLogo": null,
@@ -15,9 +15,10 @@
   "statusRead": true,
   "statusReact": true,
   "autoRead": true,
-  "cmdRead": true,
-  "autoBlock": true,
+  "cmdRead": false,
+  "autoBlock": false,
   "autoVoice": true,
-  "autoContact": true,
-  "alwaysOnline": true
+  "autoContact": false,
+  "alwaysOnline": false,
+  "aliveMsg": ""
 }
