@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "all",
+  "ownerNumber": "94776934285",
+  "ownerName": "DILUM DHAMSARA",
+  "ownerFrom": "Sri Lanka",
+  "ownerAge": "16",
+  "menuLogo": "https://i.ibb.co/V0mdXZ7M/1000046721.jpg",
+  "aliveLogo": "https://i.ibb.co/qYDcpM9f/1000046709.jpg",
+  "ownerLogo": "https://i.ibb.co/Y4d848b3/1000046731.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
