@@ -1,0 +1,23 @@
+{
+  "mode": "private",
+  "changeLang": "si",
+  "antiCall": "off",
+  "ownerNumber": "94702076300",
+  "ownerName": "ඔස්කා",
+  "ownerFrom": "ගොඩකවෙල",
+  "ownerAge": "20",
+  "menuLogo": "https://i.ibb.co/d0spJkhp/IMG-20250904-210420-815.webp",
+  "aliveLogo": "https://i.ibb.co/kVqqfHyj/1747218023629.jpg",
+  "ownerLogo": "https://i.ibb.co/YFxWH4rL/IMG-20250529-WA0059.jpg",
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": true
+}
