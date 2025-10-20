@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94788958235",
+  "ownerName": "ɪⴕ\"z ᴍᴇ (ʙʀᴍ)ᵐᵇ ꜱ'ᴛᴇ-ꜰᴀɴ ᴇ'ᴡᴏɴ-ᴢ ᴘ'ᴀᴡᴇᴇ",
+  "ownerFrom": "Srilanka",
+  "ownerAge": "17+",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": false
+}
