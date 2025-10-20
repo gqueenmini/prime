@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94784277158",
+  "ownerName": "Pabasara",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "18",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": true
+}
