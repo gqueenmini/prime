@@ -1,5 +1,5 @@
 {
-  "mode": "public",
+  "mode": "private",
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "94784277158",
@@ -11,13 +11,13 @@
   "ownerLogo": null,
   "autoTyping": false,
   "autoRecording": true,
-  "antiDelete": false,
+  "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
   "autoRead": true,
   "cmdRead": true,
-  "autoBlock": false,
-  "autoVoice": false,
+  "autoBlock": true,
+  "autoVoice": true,
   "autoContact": true,
   "alwaysOnline": true
 }
