@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "group",
+  "ownerNumber": "94757734216",
+  "ownerName": "Sithum Sathsara",
+  "ownerFrom": "Awissawella",
+  "ownerAge": "20+",
+  "menuLogo": "https://i.ibb.co/CshLhQ9W/1000161375.jpg",
+  "aliveLogo": "https://i.ibb.co/CshLhQ9W/1000161375.jpg",
+  "ownerLogo": "https://i.ibb.co/W4Csz3Dg/1000028397.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
