@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94710632039",
+  "ownerName": "𝐌𝐫.𝐆𝐞𝐞𝐧𝐞𝐭𝐡❤️‍🩹",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "15+",
+  "menuLogo": "https://i.ibb.co/YB2xY28M/5404.jpg",
+  "aliveLogo": "https://i.ibb.co/sJ55wryF/5403.jpg",
+  "ownerLogo": "https://i.ibb.co/TBD0CF8f/18200.jpg",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
