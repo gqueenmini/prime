@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94760563246",
+  "ownerName": "Chamoda rukshan",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "19",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": true,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
