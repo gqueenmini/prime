@@ -15,10 +15,10 @@
   "statusRead": true,
   "statusReact": true,
   "autoRead": true,
-  "cmdRead": false,
+  "cmdRead": true,
   "autoBlock": false,
   "autoVoice": true,
-  "autoContact": false,
+  "autoContact": true,
   "alwaysOnline": false,
   "aliveMsg": ""
 }
