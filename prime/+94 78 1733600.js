@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "si",
+  "antiCall": "off",
+  "ownerNumber": "+94 78 1733600",
+  "ownerName": "SAVINDU",
+  "ownerFrom": "Kurunagala",
+  "ownerAge": "16+",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": false
+}
