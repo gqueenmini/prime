@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "919356222438",
+  "ownerName": "RAHUL-BOT-MASTER",
+  "ownerFrom": "INDIA",
+  "ownerAge": "19",
+  "menuLogo": "https://i.ibb.co/1GKGtVVR/IMG-20251018-WA0038.jpg",
+  "aliveLogo": "https://i.ibb.co/Y7stWfvB/IMG-20251007-WA0050-1-01.jpg",
+  "ownerLogo": "https://i.ibb.co/CpP7FK7Q/IMG-20251007-WA0050.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": false,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": false,
+  "alwaysOnline": false
+}
