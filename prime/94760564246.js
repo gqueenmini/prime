@@ -4,7 +4,7 @@
   "antiCall": "off",
   "ownerNumber": "94760564246",
   "ownerName": "Chamoda",
-  "ownerFrom": "Kandy",
+  "ownerFrom": "Sri lanka",
   "ownerAge": "19",
   "menuLogo": null,
   "aliveLogo": null,
