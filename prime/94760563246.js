@@ -3,7 +3,7 @@
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "94760563246",
-  "ownerName": "Chamoda rukshan",
+  "ownerName": "Chamoda",
   "ownerFrom": "Sri lanka",
   "ownerAge": "19",
   "menuLogo": null,
