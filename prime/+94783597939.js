@@ -3,7 +3,7 @@
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "+94783597939",
-  "ownerName": "Kavidu mihiranga",
+  "ownerName": "Kaviya",
   "ownerFrom": "Kandy",
   "ownerAge": "18",
   "menuLogo": "https://i.ibb.co/SXmty9KT/IMG-20251006-WA0124.jpg",
