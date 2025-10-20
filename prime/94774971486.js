@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94774971486",
+  "ownerName": "RUSH18",
+  "ownerFrom": "Sri lanka",
+  "ownerAge": "+18",
+  "menuLogo": "https://i.ibb.co/W46324Kt/Screenshot-20251020-013321.jpg",
+  "aliveLogo": "https://i.ibb.co/Z1SKQHGP/IMG-20250811-123606.webp",
+  "ownerLogo": "https://i.ibb.co/Z1SKQHGP/IMG-20250811-123606.webp",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": false
+}
