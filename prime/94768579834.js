@@ -5,7 +5,7 @@
   "ownerNumber": "94768579834",
   "ownerName": "Nithum",
   "ownerFrom": "Kandy",
-  "ownerAge": "23",
+  "ownerAge": "22",
   "menuLogo": null,
   "aliveLogo": null,
   "ownerLogo": null,
