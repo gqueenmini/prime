@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "+94769186177",
+  "ownerName": "PATHUM",
+  "ownerFrom": "srilanka",
+  "ownerAge": "+18",
+  "menuLogo": "https://i.ibb.co/8LDvCLk0/1000045354.jpg",
+  "aliveLogo": "https://i.ibb.co/KpmR4fLD/1000045353.jpg",
+  "ownerLogo": "https://i.ibb.co/8LDvCLk0/1000045354.jpg",
+  "autoTyping": false,
+  "autoRecording": false,
+  "antiDelete": false,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": false,
+  "alwaysOnline": false
+}
