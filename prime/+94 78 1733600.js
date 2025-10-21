@@ -3,12 +3,12 @@
   "changeLang": "si",
   "antiCall": "off",
   "ownerNumber": "+94 78 1733600",
-  "ownerName": "SAVINDU",
-  "ownerFrom": "Kurunagala",
-  "ownerAge": "16+",
-  "menuLogo": null,
-  "aliveLogo": null,
-  "ownerLogo": null,
+  "ownerName": "Sachi",
+  "ownerFrom": "Dalupotha",
+  "ownerAge": "16",
+  "menuLogo": "https://i.ibb.co/FLbzrYSt/IMG-20251018-100206.jpg",
+  "aliveLogo": "https://i.ibb.co/21gkNvvX/IMG-20250926-110133.jpg",
+  "ownerLogo": "https://i.ibb.co/8n7Y6qtr/Picsart-25-10-11-20-11-34-782.jpg",
   "autoTyping": false,
   "autoRecording": true,
   "antiDelete": true,
@@ -19,5 +19,5 @@
   "autoBlock": false,
   "autoVoice": false,
   "autoContact": true,
-  "alwaysOnline": false
+  "alwaysOnline": true
 }
