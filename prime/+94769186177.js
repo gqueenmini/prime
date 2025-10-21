@@ -14,7 +14,7 @@
   "antiDelete": false,
   "statusRead": true,
   "statusReact": true,
-  "autoRead": true,
+  "autoRead": false,
   "cmdRead": false,
   "autoBlock": false,
   "autoVoice": false,
