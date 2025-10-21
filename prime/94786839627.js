@@ -1,7 +1,7 @@
 {
   "mode": "public",
   "changeLang": "en",
-  "antiCall": "off",
+  "antiCall": "all",
   "ownerNumber": "94786839627",
   "ownerName": "Akash",
   "ownerFrom": "කලුතර",
