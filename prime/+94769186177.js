@@ -1,5 +1,5 @@
 {
-  "mode": "public",
+  "mode": "private",
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "+94769186177",
