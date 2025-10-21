@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "94757329567",
+  "ownerName": "PRO X HACKER KAVIYA",
+  "ownerFrom": "Badulla",
+  "ownerAge": "99",
+  "menuLogo": "https://i.ibb.co/sJc30cVt/1000208979.jpg",
+  "aliveLogo": "https://i.ibb.co/sJc30cVt/1000208979.jpg",
+  "ownerLogo": "https://i.ibb.co/sJc30cVt/1000208979.jpg",
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": true,
+  "autoContact": true,
+  "alwaysOnline": true
+}
