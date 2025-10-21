@@ -10,7 +10,7 @@
   "aliveLogo": null,
   "ownerLogo": null,
   "autoTyping": false,
-  "autoRecording": true,
+  "autoRecording": false,
   "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
