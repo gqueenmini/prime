@@ -11,14 +11,14 @@
   "ownerLogo": null,
   "autoTyping": false,
   "autoRecording": false,
-  "antiDelete": false,
+  "antiDelete": true,
   "statusRead": true,
   "statusReact": true,
   "autoRead": true,
   "cmdRead": true,
   "autoBlock": false,
   "autoVoice": true,
-  "autoContact": true,
+  "autoContact": false,
   "alwaysOnline": false,
   "aliveMsg": ""
 }
