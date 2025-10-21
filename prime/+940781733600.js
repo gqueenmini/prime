@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "si",
+  "antiCall": "off",
+  "ownerNumber": "+940781733600",
+  "ownerName": "Sachi",
+  "ownerFrom": "Dalupotha",
+  "ownerAge": "16",
+  "menuLogo": "https://i.ibb.co/FLbzrYSt/IMG-20251018-100206.jpg",
+  "aliveLogo": "https://i.ibb.co/21gkNvvX/IMG-20250926-110133.jpg",
+  "ownerLogo": "https://i.ibb.co/8n7Y6qtr/Picsart-25-10-11-20-11-34-782.jpg",
+  "autoTyping": false,
+  "autoRecording": true,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": false,
+  "cmdRead": false,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": true
+}
