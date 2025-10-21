@@ -16,7 +16,7 @@
   "statusReact": true,
   "autoRead": true,
   "cmdRead": true,
-  "autoBlock": true,
+  "autoBlock": false,
   "autoVoice": true,
   "autoContact": true,
   "alwaysOnline": true
