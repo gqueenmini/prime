@@ -3,7 +3,7 @@
   "changeLang": "en",
   "antiCall": "off",
   "ownerNumber": "94772266567",
-  "ownerName": "Supuna",
+  "ownerName": "supuna",
   "ownerFrom": "Sri lanka",
   "ownerAge": "18",
   "menuLogo": null,
@@ -16,7 +16,7 @@
   "statusReact": true,
   "autoRead": true,
   "cmdRead": true,
-  "autoBlock": true,
+  "autoBlock": false,
   "autoVoice": true,
   "autoContact": true,
   "alwaysOnline": true
