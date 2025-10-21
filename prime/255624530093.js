@@ -1,0 +1,23 @@
+{
+  "mode": "public",
+  "changeLang": "en",
+  "antiCall": "off",
+  "ownerNumber": "255624530093",
+  "ownerName": "Whiz chagger",
+  "ownerFrom": "Tanzania",
+  "ownerAge": "22",
+  "menuLogo": null,
+  "aliveLogo": null,
+  "ownerLogo": null,
+  "autoTyping": true,
+  "autoRecording": false,
+  "antiDelete": true,
+  "statusRead": true,
+  "statusReact": true,
+  "autoRead": true,
+  "cmdRead": true,
+  "autoBlock": false,
+  "autoVoice": false,
+  "autoContact": true,
+  "alwaysOnline": true
+}
